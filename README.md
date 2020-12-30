@@ -1,4 +1,4 @@
-# simple-java-maven-app
+# Java-maven-app
 
 
 The repository contains a Java application which outputs the string
